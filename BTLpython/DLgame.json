@@ -1,0 +1,300 @@
+[
+    {
+        "player": "ly",
+        "score": 2,
+        "missed": 3,
+        "total_pizza": 5,
+        "played_at": "2025-05-30 01:51:14"
+    },
+    {
+        "player": "minh",
+        "score": 6,
+        "missed": 3,
+        "total_pizza": 9,
+        "played_at": "2025-05-30 01:52:13"
+    },
+    {
+        "Nguoi_choi": "nhi",
+        "Diemso": 22,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 25,
+        "thoi_gian_choi": "2025-05-30 14:07:27"
+    },
+    {
+        "Nguoi_choi": "m",
+        "Diemso": 1,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 4,
+        "thoi_gian_choi": "2025-05-30 14:08:04"
+    },
+    {
+        "Nguoi_choi": "m",
+        "Diemso": 7,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 10,
+        "thoi_gian_choi": "2025-05-30 14:10:50"
+    },
+    {
+        "Nguoi_choi": "m",
+        "Diemso": 2,
+        "So_pizza_roi": 0,
+        "tong_so_pizza": 2,
+        "thoi_gian_choi": "2025-05-30 14:20:26"
+    },
+    {
+        "Nguoi_choi": "nhi",
+        "Diemso": 4,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 7,
+        "bat_dau_choi": "2025-05-30 14:34:20",
+        "ket_thuc_choi": "2025-05-30 14:34:31"
+    },
+    {
+        "Nguoi_choi": "nhi",
+        "Diemso": 3,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 6,
+        "bat_dau_choi": "2025-05-30 14:39:05",
+        "ket_thuc_choi": "2025-05-30 14:39:15"
+    },
+    {
+        "Nguoi_choi": "n\u1ecb",
+        "Diemso": 3,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 6,
+        "bat_dau_choi": "2025-05-30 14:57:44",
+        "ket_thuc_choi": "2025-05-30 14:57:54"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 7,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 10,
+        "bat_dau_choi": "2025-06-01 22:05:33",
+        "ket_thuc_choi": "2025-06-01 22:05:46"
+    },
+    {
+        "Nguoi_choi": "chip",
+        "Diemso": 13,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 16,
+        "bat_dau_choi": "2025-06-01 22:09:24",
+        "ket_thuc_choi": "2025-06-01 22:09:41"
+    },
+    {
+        "Nguoi_choi": "chip",
+        "Diemso": 7,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 10,
+        "bat_dau_choi": "2025-06-01 23:37:42",
+        "ket_thuc_choi": "2025-06-01 23:37:55"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 3,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 6,
+        "bat_dau_choi": "2025-06-01 23:39:14",
+        "ket_thuc_choi": "2025-06-01 23:39:24"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 4,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 7,
+        "bat_dau_choi": "2025-06-01 23:43:54",
+        "ket_thuc_choi": "2025-06-01 23:44:05"
+    },
+    {
+        "Nguoi_choi": "nhi",
+        "Diemso": 96,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 99,
+        "bat_dau_choi": "2025-06-01 23:45:58",
+        "ket_thuc_choi": "2025-06-01 23:47:25"
+    },
+    {
+        "Nguoi_choi": "nhi",
+        "Diemso": 88,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 91,
+        "bat_dau_choi": "2025-06-01 23:51:01",
+        "ket_thuc_choi": "2025-06-01 23:52:20"
+    },
+    {
+        "Nguoi_choi": "& C:/Users/5/AppData/Local/Programs/Python/Python39/python.exe f:/N\u0103m3hi3/Python/BTLpython/pizza.py",
+        "Diemso": 2,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 5,
+        "bat_dau_choi": "2025-06-07 23:59:21",
+        "ket_thuc_choi": "2025-06-07 23:59:31"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 27,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 30,
+        "bat_dau_choi": "2025-06-08 00:00:04",
+        "ket_thuc_choi": "2025-06-08 00:00:33"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 1,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 4,
+        "bat_dau_choi": "2025-06-08 00:28:41",
+        "ket_thuc_choi": "2025-06-08 00:28:50"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 1,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 4,
+        "bat_dau_choi": "2025-06-08 00:29:49",
+        "ket_thuc_choi": "2025-06-08 00:29:58"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 2,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 5,
+        "bat_dau_choi": "2025-06-08 00:35:58",
+        "ket_thuc_choi": "2025-06-08 00:36:07"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 0,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-08 00:36:25",
+        "ket_thuc_choi": "2025-06-08 00:36:33"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 1,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 4,
+        "bat_dau_choi": "2025-06-08 00:38:35",
+        "ket_thuc_choi": "2025-06-08 00:38:44"
+    },
+    {
+        "Nguoi_choi": "mo",
+        "Diemso": 19,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 22,
+        "bat_dau_choi": "2025-06-08 00:41:28",
+        "ket_thuc_choi": "2025-06-08 00:41:51"
+    },
+    {
+        "Nguoi_choi": "chp",
+        "Diemso": 4,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 7,
+        "bat_dau_choi": "2025-06-08 23:29:44",
+        "ket_thuc_choi": "2025-06-08 23:29:55"
+    },
+    {
+        "Nguoi_choi": "mi",
+        "Diemso": 20,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 23,
+        "bat_dau_choi": "2025-06-08 23:35:30",
+        "ket_thuc_choi": "2025-06-08 23:35:53"
+    },
+    {
+        "Nguoi_choi": "mo",
+        "Diemso": 0,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-08 23:37:22",
+        "ket_thuc_choi": "2025-06-08 23:37:30"
+    },
+    {
+        "Nguoi_choi": "VH",
+        "Diemso": 1,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 4,
+        "bat_dau_choi": "2025-06-08 23:46:04",
+        "ket_thuc_choi": "2025-06-08 23:46:12"
+    },
+    {
+        "Nguoi_choi": "NI",
+        "Diemso": 2,
+        "So_pizza_roi": 1,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-08 23:46:50",
+        "ket_thuc_choi": "2025-06-08 23:46:56"
+    },
+    {
+        "Nguoi_choi": "NL",
+        "Diemso": 5,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 8,
+        "bat_dau_choi": "2025-06-08 23:47:26",
+        "ket_thuc_choi": "2025-06-08 23:47:37"
+    },
+    {
+        "Nguoi_choi": "NJ",
+        "Diemso": 0,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-08 23:49:13",
+        "ket_thuc_choi": "2025-06-08 23:49:21"
+    },
+    {
+        "Nguoi_choi": "CHIP",
+        "Diemso": 24,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 27,
+        "bat_dau_choi": "2025-06-09 00:15:20",
+        "ket_thuc_choi": "2025-06-09 00:15:46"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 0,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-09 14:26:33",
+        "ket_thuc_choi": "2025-06-09 14:26:41"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 6,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 9,
+        "bat_dau_choi": "2025-06-09 23:04:45",
+        "ket_thuc_choi": "2025-06-09 23:04:57"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 1,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 4,
+        "bat_dau_choi": "2025-06-09 23:22:27",
+        "ket_thuc_choi": "2025-06-09 23:22:35"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 0,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-09 23:23:13",
+        "ket_thuc_choi": "2025-06-09 23:23:21"
+    },
+    {
+        "Nguoi_choi": "ni",
+        "Diemso": 1,
+        "So_pizza_roi": 2,
+        "tong_so_pizza": 3,
+        "bat_dau_choi": "2025-06-09 23:23:36",
+        "ket_thuc_choi": "2025-06-09 23:23:42"
+    },
+    {
+        "Nguoi_choi": "nj",
+        "Diemso": 12,
+        "So_pizza_roi": 3,
+        "tong_so_pizza": 15,
+        "bat_dau_choi": "2025-06-09 23:29:59",
+        "ket_thuc_choi": "2025-06-09 23:30:15"
+    }
+]
